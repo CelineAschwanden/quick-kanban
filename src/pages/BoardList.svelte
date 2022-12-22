@@ -38,7 +38,7 @@
 
     <li class="add">
       <button on:click={add}
-        >{boards.length == 0 ? 'Add a board' : 'Add another board'}</button
+        >{boards.length == 0 ? 'Create a board' : 'Add another board'}</button
       >
     </li>
   </ul>

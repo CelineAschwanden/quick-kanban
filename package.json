@@ -1,7 +1,6 @@
 {
-  "name": "svelte-kanban",
-  "private": true,
-  "version": "0.2.0",
+  "name": "quick-kanban",
+  "version": "0.2.1",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -14,19 +13,18 @@
     "deploy": "vercel --prod"
   },
   "devDependencies": {
-    "@supabase/supabase-js": "^1.2.1",
-    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.41",
+    "@supabase/supabase-js": "^1.35.1",
+    "@sveltejs/vite-plugin-svelte": "1.0.0-next.41",
     "@testing-library/jest-dom": "^5.16.4",
-    "@testing-library/svelte": "^3.0.0",
+    "@testing-library/svelte": "^3.1.1",
     "@vitest/ui": "^0.9.4",
     "autoprefixer": "^10.4.4",
     "cssnano": "^5.1.7",
     "eslint": "^8.13.0",
     "gravatar-url": "^4.0.1",
     "jsdom": "^19.0.0",
-    "svelte": "^3.29.0",
-    "svelte-dnd-action": "^0.8.6",
-    "tinro": "^0.5.8",
+    "svelte": "^3.47.0",
+    "svelte-dnd-action": "^0.8.9",
     "vercel": "^24.1.0",
     "vite": "^2.9.5",
     "vitest": "^0.9.4"

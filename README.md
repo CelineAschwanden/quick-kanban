@@ -1,20 +1,17 @@
-# Supabase/Svelte Kanban
+# Simple Kanban
 
-A [Trello](https://trello.com) clone using [Supabase](https://supabase.io) as the storage system.
+A [Trello](https://trello.com) clone using [Supabase](https://supabase.io) as backend.<br>
+Made with Svelte and Tinro router.<br>
+Based on [svelte-kanban](https://github.com/supabase-community/svelte-kanban)<br><br>
+Added Tinro outside of node modules and updated ts config as in this [pull request](https://github.com/AlexxNB/tinro/pull/121) by Sanshain<br><br>
 
-## [Live Demo](https://supabase-kanban.vercel.app/)
-
-### Screenshot
-
-![Screenshot](https://github.com/supabase-community/supabase-kanban/blob/main/screenshot.png)
+![Screenshot](./Screenshot.png)<br><br>
 
 # Setup locally
-
-1. Clone the repo with `gh repo clone supabase-community/supabase-kanban` and install dependencies with `pnpm install`
+1. Install dependencies with `pnpm install`
 2. Setup the database on [supabase](https://supabase.io) and run the commands in [`setup.sql`](https://github.com/supabase-community/supabase-kanban/blob/main/setup.sql)
-3. Rename `.env.example` to `.env` and update the credentials
-4. Start development server with `pnpm dev`
-5. Done!
+3. Update the credentials in `.env`
+4. Start development server with `pnpm dev`<br><br>
 
 ## Available Scripts
 
@@ -45,7 +42,7 @@ Your app is ready to be deployed!
 
 ### pnpm deploy
 
-Deploys the app to [vercel](https://vercel.com)
+Deploys the app to [vercel](https://vercel.com)<br><br>
 
 # License
 
