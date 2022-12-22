@@ -5,7 +5,7 @@ Made with Svelte and Tinro router.<br>
 Based on [svelte-kanban](https://github.com/supabase-community/svelte-kanban)<br><br>
 Added Tinro outside of node modules and updated ts config as in this [pull request](https://github.com/AlexxNB/tinro/pull/121) by Sanshain<br><br>
 
-![Screenshot](./Screenshot.png)<br><br>
+![Screenshot](./screenshot.png)<br><br>
 
 # Setup locally
 1. Install dependencies with `pnpm install`
