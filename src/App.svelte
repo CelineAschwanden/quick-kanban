@@ -1,5 +1,5 @@
 <script>
-  import { Route } from 'tinro'
+  import { Route } from '@/tinro'
   import db from '@/db'
   import Board from '@/pages/Board.svelte'
   import BoardList from '@/pages/BoardList.svelte'

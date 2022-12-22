@@ -13,7 +13,6 @@ specifiers:
   jsdom: ^19.0.0
   svelte: ^3.47.0
   svelte-dnd-action: ^0.8.9
-  tinro: ^0.5.15
   vercel: ^24.1.0
   vite: ^2.9.5
   vitest: ^0.9.4
@@ -31,7 +30,6 @@ devDependencies:
   jsdom: 19.0.0
   svelte: 3.47.0
   svelte-dnd-action: 0.8.9
-  tinro: 0.5.15
   vercel: 24.1.0
   vite: 2.9.5
   vitest: 0.9.4_mrxwcmvq2lju7v477beyxzpdie
@@ -2653,10 +2651,6 @@ packages:
 
   /text-table/0.2.0:
     resolution: {integrity: sha1-f17oI66AUgfACvLfSoTsP8+lcLQ=}
-    dev: true
-
-  /tinro/0.5.15:
-    resolution: {integrity: sha512-m1262wrO+7+Jsm7rDLCS9VnCd9CxlR7OXpfM5MsacjazSukYy2ymRx6yY+enm6QIIpC/jcmtKkplAkOZIkivXw==}
     dev: true
 
   /tinypool/0.1.2:

@@ -2,7 +2,7 @@
   import Header from '@/components/Header.svelte'
   import { onMount } from 'svelte'
   import db from '@/db'
-  import { router } from 'tinro'
+  import { router } from '@/tinro'
 
   let boards = []
   let loading = true
