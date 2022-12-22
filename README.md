@@ -1,4 +1,4 @@
-# Simple Kanban
+# Quick Kanban
 
 A [Trello](https://trello.com) clone using [Supabase](https://supabase.io) as backend.<br>
 Made with Svelte and Tinro router.<br>
